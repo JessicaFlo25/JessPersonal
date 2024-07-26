@@ -13,7 +13,7 @@ function App() {
     <>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<LandingPage />}/>
+        <Route path="/JessPersonal" element={<LandingPage />}/>
         {/* <Route path="/about" element={<About />}/>
         <Route path="/portfolio" element={<Portfolio />}/> */}
       </Routes>
